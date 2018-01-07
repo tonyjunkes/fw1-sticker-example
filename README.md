@@ -13,5 +13,5 @@ An example of using Sticker as a Subsystem in an FW/1 application.
 
 #### Learn more about Sticker
 
-[Docs](http://sticker.readthedocs.io/en/latest/)
-[Repo](https://github.com/pixl8/sticker)
+- [Docs](http://sticker.readthedocs.io/en/latest/)
+- [Repo](https://github.com/pixl8/sticker)
