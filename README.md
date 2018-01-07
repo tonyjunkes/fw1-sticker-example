@@ -8,3 +8,10 @@ An example of using Sticker as a Subsystem in an FW/1 application.
 - Fire up Commandbox by entering `box` in your terminal and `cd` into the project root directory.
 - Run `install && start`.
 - Start hacking away!
+
+> Note: Sticker only supports Lucee!
+
+#### Learn more about Sticker
+
+[Docs](http://sticker.readthedocs.io/en/latest/)
+[Repo](https://github.com/pixl8/sticker)
